@@ -1,0 +1,1 @@
+# Desafio SQL -  Consultas agrupadas
